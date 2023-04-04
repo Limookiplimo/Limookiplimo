@@ -4,7 +4,8 @@ Hi! My name is Limoo kiplimo
 Data engineer and analytics
 ---------------------------
 
-I have been working in sales field for 3 years and after realising how we can leverage on data to optimise customer experience and service delivery, I am switching careers into the field of data. I code in python and SQL. Currently learning data tools and technologies.
+A data engineer with extensive knowledge in retails and sales domain. Always learning and trying new tools and techniques for data optimization.
+With a mission to help businesses utilize their data and help stakeholders make informed decisions. 
 
 *   🌍  I'm based in Nairobi
 *   ✉️  You can contact me at [limookiplimo@gmail.com](mailto:limookiplimo@gmail.com)
