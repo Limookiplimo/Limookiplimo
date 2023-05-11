@@ -1,7 +1,7 @@
 Hi! My name is Limoo kiplimo
 =====================================================================================================================================
 
-Data engineer and analytics
+Data analytics engineer
 ---------------------------
 
 A data engineer with extensive knowledge in retails and sales domain. Always learning and trying new tools and techniques for data optimization.
