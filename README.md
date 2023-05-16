@@ -7,9 +7,7 @@ Data analytics engineer
 A data engineer with extensive knowledge in retails and sales domain. Always learning and trying new tools and techniques for data optimization.
 With a mission to help businesses utilize their data and help stakeholders make informed decisions. 
 
-*   🌍  I'm based in Nairobi
 *   ✉️  You can contact me at [limookiplimo@gmail.com](mailto:limookiplimo@gmail.com)
-*   🧠  I'm learning Apache airflow, kafka & spark
 *   🤝  I'm open to collaborating on data related projects
 
 ### Skills 
