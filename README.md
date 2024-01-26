@@ -1,7 +1,6 @@
 Limoo Kiplimo
 =====================================================================================================================================
-A data engineer with extensive knowledge in retail and wholesale services. Always learning, and trying new tools & techniques for data optimization.
-On a mission to help businesses utilize their data to make informed decisions.
+Developer :)
 
 <b>My GitHub Stats</b>
 
